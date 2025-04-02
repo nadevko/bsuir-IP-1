@@ -9,7 +9,8 @@
 
 ## Tasks
 
-- [Lab work 1 name](lw/01/README.md)
-- [Lab work 1 name](lw/02/README.md)
-- [Lab work 1 name](lw/03/README.md)
-- [Practical work 1 name](pw/01/README.md)
+- [Development of the concept of product](lw/01/README.md)
+- [Development of the structure of interaction "User-interface"](lw/02/README.md)
+- [Fundamentals of work in Figma](lw/03/README.md)
+
+- [GOMS method](pw/01/README.md)
