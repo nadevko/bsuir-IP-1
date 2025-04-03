@@ -14,3 +14,4 @@
 - [Fundamentals of work in Figma](lw/03/README.md)
 
 - [GOMS method](pw/01/README.md)
+- [Technologies for designing the structure of interaction](pw/02/README.md)
