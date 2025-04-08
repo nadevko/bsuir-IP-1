@@ -12,6 +12,7 @@
 - [Development of the concept of product](lw/01/README.md)
 - [Development of the structure of interaction "User-interface"](lw/02/README.md)
 - [Fundamentals of work in Figma](lw/03/README.md)
+- [Design of the user work algorithm](lw/04/README.md)
 
 - [GOMS method](pw/01/README.md)
 - [Technologies for designing the structure of interaction](pw/02/README.md)
