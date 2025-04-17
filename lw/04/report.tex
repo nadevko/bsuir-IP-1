@@ -1,0 +1,52 @@
+\documentclass{bsuir}
+\usepackage{makecell}
+\usepackage{multirow}
+
+\departmentlong{инженерной психологии и эргономики}
+\worktitle{Лабораторная работа \textnumero4\\\textquote{Проектирование алгоритма работы пользователя}}
+\titleleft{
+    Проверила:\\
+    Яцкевич А. Ю.\\
+    ~
+}
+\titleright{
+    Выполнил:\\
+    Бородин А.Н.\\
+    гр. 310901
+}
+\titlepageyear{2025}
+
+\usepackage{pgfplots}
+\usepackage{amsmath}
+\usepackage{breqn}
+
+\newlength{\tablewidth}
+\setlength{\tablewidth}{\textwidth - \parindent}
+
+\renewcommand*{\thesection}{\arabic{section}}
+
+\begin{document}
+
+\maketitle
+\mainmatter
+
+\textbf{Цель работы}: формирование умения составлять карту пользовательского пути (User flow) проектируемого приложения.
+
+\textbf{Проектируемый продукт}: IDE, совмещенная с обучающей платформой для студентов БГУИР.
+
+\section{Диаграммы}
+
+Сценарий логина в систему представлен на рисунке \ref{img:1.png}. Диаграмма выполнения студентом лабораторной работы
+изображена на рисунке \ref{img:2.png}.
+
+\makeimage[User flow логина в систему]{1.png}
+
+\makeimage[User flow выполнения лабораторной работы]{2.png}
+
+\section{Обоснование информационной архитектуры}
+
+Так как эта программа является расширением уже существующей, редактора Visual Studio Code, он заимствует его
+архитектуру. В основе интерфейса этого редактора лежат задачи: открыть файл, скопировать текст, синхронизировать
+репозиторий и т.д.
+
+\end{document}

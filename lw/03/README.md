@@ -1,6 +1,6 @@
 # Fundamentals of work in Figma
 
-- Variant: N
+- Variant: -
 - Report: [report.pdf](https://github.com/nadevko/bsuir-IP-1/releases/download/term-4/lw-03.pdf)
 - Issues: [4](https://github.com/nadevko/bsuir-IP-1/issues/4)
 - Resources:

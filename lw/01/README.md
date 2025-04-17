@@ -1,6 +1,6 @@
 # Development of the concept of product
 
-- Variant: N
+- Variant: IDE, combined with a training platform for BSUIR students
 - Report: [report.pdf](https://github.com/nadevko/bsuir-IP-1/releases/download/term-4/lw-01.pdf)
 - Issues: [2](https://github.com/nadevko/bsuir-IP-1/issues/2)
 - Resources:
