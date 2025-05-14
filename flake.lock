@@ -1,0 +1,102 @@
+{
+  "nodes": {
+    "bsuir-tex": {
+      "inputs": {
+        "mkflake": "mkflake",
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1746387149,
+        "narHash": "sha256-1p+n9NflKWS/k9Hhbp348jfL+RiRrm2xYtoskL1B4Dg=",
+        "owner": "nadevko",
+        "repo": "bsuir-TeX-1",
+        "rev": "e12291fe739bd8b7e03e4f97822742a6e4232a23",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nadevko",
+        "ref": "v0.1",
+        "repo": "bsuir-TeX-1",
+        "type": "github"
+      }
+    },
+    "mkflake": {
+      "locked": {
+        "lastModified": 1712284878,
+        "narHash": "sha256-66dqRuL4kQw9r/xthE7RbTdaszwUZLdjwFwFloeu6NI=",
+        "owner": "jonascarpay",
+        "repo": "mkflake",
+        "rev": "eb1172a9cd34e0a42848e787fb11a673f658c9e2",
+        "type": "github"
+      },
+      "original": {
+        "owner": "jonascarpay",
+        "repo": "mkflake",
+        "type": "github"
+      }
+    },
+    "mkflake_2": {
+      "locked": {
+        "lastModified": 1712284878,
+        "narHash": "sha256-66dqRuL4kQw9r/xthE7RbTdaszwUZLdjwFwFloeu6NI=",
+        "owner": "jonascarpay",
+        "repo": "mkflake",
+        "rev": "eb1172a9cd34e0a42848e787fb11a673f658c9e2",
+        "type": "github"
+      },
+      "original": {
+        "owner": "jonascarpay",
+        "repo": "mkflake",
+        "type": "github"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1747240684,
+        "narHash": "sha256-EZuOQiUk8wkginxtyimkWW1RtHzMZl2VwWI7Je0T590=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "c4a5fd90fa698ccd6ef437d43c9d6c06a57ba4e2",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NixOS",
+        "ref": "release-24.11",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "bsuir-tex": "bsuir-tex",
+        "mkflake": "mkflake_2",
+        "nixpkgs": "nixpkgs",
+        "treefmt-nix": "treefmt-nix"
+      }
+    },
+    "treefmt-nix": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1746989248,
+        "narHash": "sha256-uoQ21EWsAhyskNo8QxrTVZGjG/dV4x5NM1oSgrmNDJY=",
+        "owner": "numtide",
+        "repo": "treefmt-nix",
+        "rev": "708ec80ca82e2bbafa93402ccb66a35ff87900c5",
+        "type": "github"
+      },
+      "original": {
+        "owner": "numtide",
+        "repo": "treefmt-nix",
+        "type": "github"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
